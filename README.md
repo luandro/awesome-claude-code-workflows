@@ -54,7 +54,7 @@
 
 ### Complete Command Reference
 - **Repository**: [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide)
-- **Stars**: 1.7k⭐
+- **Stars**: 1.8k⭐
 - **Description**: Most complete Claude Code command reference available as of August 2025
 - **Key Features**:
   - Every discoverable Claude Code command documented
@@ -93,7 +93,7 @@
 
 ### Claude Code Project Management (CCPM)
 - **Repository**: [automazeio/ccpm](https://github.com/automazeio/ccpm)
-- **Stars**: 1k⭐
+- **Stars**: 1.1k⭐
 - **Description**: Battle-tested project management system using GitHub Issues and Git worktrees for parallel agent execution
 - **Key Features**:
   - PRD → Epic → Tasks → GitHub Issues workflow
