@@ -27,7 +27,7 @@
 
 ### ClaudeBox
 - **Repository**: [RchGrav/claudebox](https://github.com/RchGrav/claudebox)
-- **Stars**: 402⭐
+- **Stars**: 403⭐
 - **Description**: The Ultimate Claude Code Docker Development Environment with pre-configured development profiles
 - **Key Features**:
   - Containerized environment with 15+ language profiles (Python, Rust, Go, C/C++, etc.)
@@ -41,6 +41,7 @@
 
 ### SuperClaude Framework
 - **Repository**: [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)
+- **Stars**: 13.6k⭐
 - **Description**: Configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies
 - **Key Features**:
   - 16 specialized commands for common dev tasks
@@ -82,6 +83,7 @@
 
 ### Spec-Driven Development
 - **Repository**: [Pimzino/claude-code-spec-workflow](https://github.com/Pimzino/claude-code-spec-workflow)
+- **Stars**: 1.6k⭐
 - **Description**: Automated workflows featuring spec-driven development (Requirements → Design → Tasks → Implementation)
 - **Key Features**:
   - Complete feature development workflow
@@ -118,6 +120,7 @@
 
 ### Production Configuration Collections
 - **Repository**: [Matt-Dionis/claude-code-configs](https://github.com/Matt-Dionis/claude-code-configs)
+- **Stars**: 404⭐
 - **Description**: Comprehensive collection of production-grade Claude Code configurations for different tech stacks
 - **Key Features**:
   - Next.js 15, shadcn/ui, MCP server configurations
@@ -130,6 +133,7 @@
 
 ### Claude Code Settings Collection
 - **Repository**: [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings)
+- **Stars**: 393⭐
 - **Description**: Curated settings and commands for "vibe coding" workflows
 - **Key Features**:
   - Kiro workflow implementation
@@ -142,6 +146,7 @@
 
 ### Terminal Automation Tools
 - **Repository**: [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools)
+- **Stars**: 160⭐
 - **Description**: Collection of practical tools for enhancing Claude Code with terminal automation
 - **Key Features**:
   - tmux-cli for terminal automation ("Playwright for terminals")
@@ -156,6 +161,7 @@
 
 ### OAuth Authentication for GitHub Actions
 - **Repository**: [grll/claude-code-login](https://github.com/grll/claude-code-login)
+- **Stars**: 59⭐
 - **Description**: OAuth 2.0 authentication tool for Claude Code with GitHub Actions integration
 - **Key Features**:
   - OAuth 2.0 + PKCE authentication
@@ -169,6 +175,7 @@
 
 ### 24/7 Autonomous Agents
 - **Repository**: [Jedward23/Tmux-Orchestrator](https://github.com/Jedward23/Tmux-Orchestrator)
+- **Stars**: 1.3k⭐
 - **Description**: Run AI agents 24/7 with autonomous scheduling, coordination across multiple projects
 - **Key Features**:
   - Three-tier hierarchy (Orchestrator → Project Managers → Engineers)
@@ -196,6 +203,7 @@
 
 ### Awesome Claude Code Collection
 - **Repository**: [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
+- **Stars**: 11.9k⭐
 - **Description**: Curated list of slash-commands, CLAUDE.md files, CLI tools, and resources
 - **Focus**: Community-driven resource collection
 - **Best for**: Discovering community-created resources
