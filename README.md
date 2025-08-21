@@ -36,7 +36,7 @@
   - Tmux integration for multi-pane workflows
   - Built-in security with network isolation
 - **Strengths**: Production-ready containerization, excellent isolation, cross-platform support
-- **Maintenance**: Active (last updated July 2025)
+- **Maintenance**: Very active (last commit 2025-08-20)
 - **Best for**: Teams wanting containerized, reproducible development environments
 
 ### SuperClaude Framework
@@ -75,7 +75,7 @@
   - Support for Claude Code and other AI tools
   - Mathematical foundations and practical applications
 - **Strengths**: Deep theoretical foundation, research-backed, comprehensive
-- **Maintenance**: Very active (daily updates)
+- **Maintenance**: Very active (last commit 2025-08-18)
 - **Best for**: Advanced users wanting deep understanding of context engineering
 
 ## Project Management & Workflows
@@ -101,7 +101,7 @@
   - GitHub Issues as single source of truth
   - Complete audit trail and traceability
 - **Strengths**: Production-tested, excellent documentation, team collaboration focus
-- **Maintenance**: Active (August 2025)
+- **Maintenance**: Very active (last commit 2025-08-21)
 - **Best for**: Teams wanting structured PM with GitHub integration
 
 ### Task Delegation System
@@ -125,7 +125,7 @@
   - Specialized agents for different domains
   - Production-ready hooks and automation
 - **Strengths**: Real-world tested, covers popular frameworks, excellent documentation
-- **Maintenance**: Active (August 2025)
+- **Maintenance**: Very active (last commit 2025-08-14)
 - **Best for**: Developers wanting battle-tested configurations
 
 ### Claude Code Settings Collection
@@ -149,7 +149,7 @@
   - Claude-to-Claude communication
   - Environment file management (vault, env-safe)
 - **Strengths**: Solves real pain points, well documented, practical
-- **Maintenance**: Active (August 2025)  
+- **Maintenance**: Very active (last commit 2025-08-21)
 - **Best for**: Developers needing terminal automation and CLI interaction
 
 ## Authentication & OAuth

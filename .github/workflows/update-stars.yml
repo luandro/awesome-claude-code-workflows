@@ -26,6 +26,12 @@ jobs:
         run: |
           python scripts/update_stars.py
 
+      - name: Update README maintenance statuses
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/update_maintenance.py
+
       - name: Commit and push changes
         run: |
           if [[ -n "$(git status --porcelain)" ]]; then
@@ -36,4 +42,3 @@ jobs:
             git push
           else
             echo "No changes to commit."
-
